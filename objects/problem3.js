@@ -1,0 +1,1 @@
+let arr= ["goku", "hyderabad", 123456, 20, "vegita"];
