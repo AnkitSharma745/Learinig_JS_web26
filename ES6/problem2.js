@@ -1,0 +1,5 @@
+// global scope.
+
+{
+  //block scope
+}
